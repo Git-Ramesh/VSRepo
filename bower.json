@@ -1,0 +1,17 @@
+{
+  "name": "VSRepo",
+  "homepage": "https://github.com/Git-Ramesh/VSRepo",
+  "authors": [
+    "Ramesh <ramesh@rsageventures.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
